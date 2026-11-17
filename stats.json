@@ -172,10 +172,6 @@
     "مرطبات الرصافة": {
       "status": "not_ready",
       "note": ""
-    },
-    "test": {
-      "status": "completed",
-      "note": ""
     }
   }
 }
