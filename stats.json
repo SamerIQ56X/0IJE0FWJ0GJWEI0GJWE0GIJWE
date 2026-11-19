@@ -75,8 +75,9 @@
       "note": ""
     },
     "شركة برج الساعي": {
-      "status": "completed",
-      "note": ""
+      "status": "needs_edit",
+      "note": "",
+      "customLabel": ""
     },
     "مكتب المحاسب القانوني منتهى عبد جاسم": {
       "status": "completed",
