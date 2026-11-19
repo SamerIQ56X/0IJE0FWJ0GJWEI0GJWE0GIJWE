@@ -29,8 +29,9 @@
       "note": ""
     },
     "ثانوية حي الحسين الأهلية للبنين": {
-      "status": "completed",
-      "note": ""
+      "status": "monthly_payment_due",
+      "note": "",
+      "customLabel": ""
     },
     "محل لبيع المواد الغذائية والمنزلية بالجملة أسواق الحيالي": {
       "status": "completed",
