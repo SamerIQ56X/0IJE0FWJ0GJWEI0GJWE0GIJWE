@@ -120,8 +120,9 @@
       "customLabel": "مغيرين كلمة السر"
     },
     "محل نجارة اسعد": {
-      "status": "completed",
-      "note": ""
+      "status": "custom",
+      "note": "",
+      "customLabel": "مغيرين كلمة السر"
     },
     " معهد ندى الصباح الاهلي لدورات التقوية": {
       "status": "completed",
