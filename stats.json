@@ -15,8 +15,9 @@
       "note": ""
     },
     "مدرسة محمد المصطفى الابتدائية الاهلية المختلطة": {
-      "status": "completed",
-      "note": ""
+      "status": "monthly_payment_due",
+      "note": "",
+      "customLabel": ""
     },
     "مذخر أدوية العهد الجديد": {
       "status": "monthly_payment_due",
