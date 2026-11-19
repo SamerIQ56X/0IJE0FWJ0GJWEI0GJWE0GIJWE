@@ -3,7 +3,7 @@
   "accounts": {
     "صالون حلاقة كريستينا": {
       "status": "monthly_payment_review",
-      "note": "test",
+      "note": "",
       "customLabel": "تم الدفع"
     },
     "مدرسة الفكر الأبتدائية الأهلية المختلطة": {
