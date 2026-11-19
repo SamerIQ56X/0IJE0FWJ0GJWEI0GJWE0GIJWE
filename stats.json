@@ -43,8 +43,9 @@
       "note": ""
     },
     "عطاء الربيع": {
-      "status": "completed",
-      "note": ""
+      "status": "custom",
+      "note": "",
+      "customLabel": "اخر شهر مسدد شهر التاسع 9"
     },
     "محل الربيع سنتر لبيع المواد الغذائية وغير الغذائية بالجملة": {
       "status": "completed",
