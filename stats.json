@@ -52,8 +52,9 @@
       "note": ""
     },
     "منزل السيدة ألاء مهدي شبلي": {
-      "status": "completed",
-      "note": ""
+      "status": "needs_edit",
+      "note": "",
+      "customLabel": ""
     },
     "منزل السيد محمد فاضل عباس": {
       "status": "completed",
