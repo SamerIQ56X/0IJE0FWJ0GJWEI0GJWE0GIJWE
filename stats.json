@@ -152,8 +152,9 @@
       "customLabel": ""
     },
     "صالون سحر للسيدات": {
-      "status": "completed",
-      "note": ""
+      "status": "needs_edit",
+      "note": "",
+      "customLabel": ""
     },
     "معمل باسم جبس البطاطا": {
       "status": "not_ready",
