@@ -128,8 +128,9 @@
       "note": ""
     },
     "ابتدائيه ندى الصباح": {
-      "status": "completed",
-      "note": ""
+      "status": "not_ready",
+      "note": "",
+      "customLabel": ""
     },
     "مطعم بيت ورد": {
       "status": "completed",
