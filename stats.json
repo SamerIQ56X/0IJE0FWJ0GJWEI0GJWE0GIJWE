@@ -170,8 +170,9 @@
       "customLabel": ""
     },
     "جزارة الرصافة": {
-      "status": "completed",
-      "note": ""
+      "status": "not_ready",
+      "note": "",
+      "customLabel": ""
     },
     " مرطبات الرصافة": {
       "status": "completed",
