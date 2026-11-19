@@ -165,8 +165,9 @@
       "note": ""
     },
     "مطعم الشيف علاء": {
-      "status": "completed",
-      "note": ""
+      "status": "not_ready",
+      "note": "",
+      "customLabel": ""
     },
     "جزارة الرصافة": {
       "status": "completed",
