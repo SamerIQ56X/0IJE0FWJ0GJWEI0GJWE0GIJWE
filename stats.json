@@ -129,8 +129,9 @@
       "note": ""
     },
     "محل اعداد وتحضير وتحضير الاطعمة والمشروبات مطعم لقمة": {
-      "status": "completed",
-      "note": ""
+      "status": "not_ready",
+      "note": "",
+      "customLabel": ""
     },
     "مدرسة الدعاء": {
       "status": "completed",
