@@ -80,8 +80,9 @@
       "customLabel": ""
     },
     "مكتب المحاسب القانوني منتهى عبد جاسم": {
-      "status": "completed",
-      "note": ""
+      "status": "custom",
+      "note": "",
+      "customLabel": "مغيرين كلمه السر"
     },
     "متوسطة الندى": {
       "status": "monthly_payment_due",
