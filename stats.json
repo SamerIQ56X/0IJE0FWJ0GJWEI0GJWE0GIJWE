@@ -2,8 +2,9 @@
   "version": 1,
   "accounts": {
     "صالون حلاقة كريستينا": {
-      "status": "completed",
-      "note": "test"
+      "status": "custom",
+      "note": "test",
+      "customLabel": "تم الدفع"
     },
     "مدرسة الفكر الأبتدائية الأهلية المختلطة": {
       "status": "completed",
