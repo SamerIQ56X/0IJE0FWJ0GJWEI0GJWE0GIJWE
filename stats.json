@@ -81,8 +81,9 @@
       "note": ""
     },
     "شركة القانع للكونكريت": {
-      "status": "completed",
-      "note": ""
+      "status": "monthly_payment_due",
+      "note": "",
+      "customLabel": ""
     },
     "معمل مالك رزاق": {
       "status": "completed",
