@@ -110,8 +110,9 @@
       "customLabel": ""
     },
     "مثلجات الساقي": {
-      "status": "completed",
-      "note": ""
+      "status": "not_ready",
+      "note": "",
+      "customLabel": ""
     },
     "صالون منير": {
       "status": "completed",
