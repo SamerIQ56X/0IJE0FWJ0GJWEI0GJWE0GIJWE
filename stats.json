@@ -95,8 +95,9 @@
       "customLabel": ""
     },
     "معمل مالك رزاق": {
-      "status": "completed",
-      "note": ""
+      "status": "custom",
+      "note": "",
+      "customLabel": "مغيرين كلمة السر"
     },
     "مدرسة نهضة المستقبل": {
       "status": "completed",
