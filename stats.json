@@ -115,8 +115,9 @@
       "customLabel": ""
     },
     "صالون منير": {
-      "status": "completed",
-      "note": ""
+      "status": "custom",
+      "note": "",
+      "customLabel": "مغيرين كلمة السر"
     },
     "محل نجارة اسعد": {
       "status": "completed",
