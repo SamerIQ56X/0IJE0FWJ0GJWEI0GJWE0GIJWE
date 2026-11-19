@@ -2,7 +2,7 @@
   "version": 1,
   "accounts": {
     "صالون حلاقة كريستينا": {
-      "status": "monthly_payment_review",
+      "status": "completed",
       "note": "",
       "customLabel": "تم الدفع"
     },
