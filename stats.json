@@ -11,8 +11,9 @@
       "note": ""
     },
     "مدرسة الغد الجديد الابتدائية المختلطة": {
-      "status": "completed",
-      "note": ""
+      "status": "needs_edit",
+      "note": "",
+      "customLabel": ""
     },
     "مدرسة محمد المصطفى الابتدائية الاهلية المختلطة": {
       "status": "monthly_payment_due",
