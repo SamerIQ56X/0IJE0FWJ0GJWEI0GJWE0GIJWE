@@ -19,8 +19,9 @@
       "note": ""
     },
     "مذخر أدوية العهد الجديد": {
-      "status": "completed",
-      "note": ""
+      "status": "monthly_payment_due",
+      "note": "",
+      "customLabel": ""
     },
     "المركز اللبناني الحديث الصحي الأولي": {
       "status": "completed",
