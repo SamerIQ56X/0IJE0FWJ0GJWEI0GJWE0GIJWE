@@ -100,8 +100,9 @@
       "customLabel": "مغيرين كلمة السر"
     },
     "مدرسة نهضة المستقبل": {
-      "status": "completed",
-      "note": ""
+      "status": "not_ready",
+      "note": "",
+      "customLabel": ""
     },
     "فاير فاير": {
       "status": "completed",
