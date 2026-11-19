@@ -62,8 +62,9 @@
       "customLabel": ""
     },
     "شركة أضواء الأعمار للمقاولات العامة المحدودة": {
-      "status": "completed",
-      "note": ""
+      "status": "needs_edit",
+      "note": "",
+      "customLabel": ""
     },
     "سفن 7 دي": {
       "status": "completed",
