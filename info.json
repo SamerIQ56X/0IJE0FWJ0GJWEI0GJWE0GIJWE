@@ -205,13 +205,18 @@
     "password": "Awsawsaws1!"
   },
   {
-    "company": "غرناطة / 1",
+    "company": "غرناطة \/ 1",
     "contact": "07903440469",
     "password": "Awsawsaws1!"
   },
   {
-    "company": "رحاب / منزل السيد عبدالله نهاد",
+    "company": "رحاب \/ منزل السيد عبدالله نهاد",
     "contact": "07748317779",
+    "password": "Awsawsaws1!"
+  },
+  {
+    "company": "مكتب هيثم محمد غالي",
+    "contact": "07700181495",
     "password": "Awsawsaws1!"
   }
 ]
