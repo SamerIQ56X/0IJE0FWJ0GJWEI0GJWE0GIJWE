@@ -21,7 +21,7 @@
       "customLabel": ""
     },
     "مذخر أدوية العهد الجديد": {
-      "status": "monthly_payment_due",
+      "status": "completed",
       "note": "562,450",
       "customLabel": ""
     },
@@ -200,11 +200,11 @@
       "status": "not_ready",
       "note": ""
     },
-    "غرناطة / 1": {
+    "غرناطة \/ 1": {
       "status": "not_ready",
       "note": ""
     },
-    "رحاب / منزل السيد عبدالله نهاد": {
+    "رحاب \/ منزل السيد عبدالله نهاد": {
       "status": "not_ready",
       "note": ""
     },
