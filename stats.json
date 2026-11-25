@@ -215,9 +215,9 @@
       "customLabel": ""
     },
     "جكليت بار": {
-      "status": "not_ready",
+      "status": "custom",
       "note": "",
-      "customLabel": ""
+      "customLabel": "تدقيق فتح الحساب"
     }
   }
 }
