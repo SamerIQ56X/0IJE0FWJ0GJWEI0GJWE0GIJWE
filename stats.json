@@ -137,11 +137,6 @@
       "status": "completed",
       "note": ""
     },
-    "محل اهلنا الطيبين للتجهيزات الغذائية": {
-      "status": "completed",
-      "note": "",
-      "customLabel": ""
-    },
     "ابتدائيه ندى الصباح": {
       "status": "not_ready",
       "note": "",
@@ -200,11 +195,11 @@
       "status": "not_ready",
       "note": ""
     },
-    "غرناطة \/ 1": {
+    "غرناطة / 1": {
       "status": "not_ready",
       "note": ""
     },
-    "رحاب \/ منزل السيد عبدالله نهاد": {
+    "رحاب / منزل السيد عبدالله نهاد": {
       "status": "not_ready",
       "note": ""
     },
@@ -212,6 +207,11 @@
       "status": "monthly_payment_review",
       "note": "",
       "customLabel": "قيد المعالجه طلب تحاسب شهري"
+    },
+    "معرض اهلنا الطيبين للتجهيزات الغذائية": {
+      "status": "completed",
+      "note": "",
+      "customLabel": ""
     }
   }
 }
