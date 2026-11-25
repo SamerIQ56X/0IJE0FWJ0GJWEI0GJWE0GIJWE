@@ -196,8 +196,9 @@
       "note": ""
     },
     "غرناطة / 1": {
-      "status": "not_ready",
-      "note": ""
+      "status": "custom",
+      "note": "",
+      "customLabel": "يحتاج اضافة العاملين"
     },
     "رحاب / منزل السيد عبدالله نهاد": {
       "status": "not_ready",
