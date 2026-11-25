@@ -212,6 +212,11 @@
       "status": "completed",
       "note": "",
       "customLabel": ""
+    },
+    "جكليت بار": {
+      "status": "not_ready",
+      "note": "",
+      "customLabel": ""
     }
   }
 }
