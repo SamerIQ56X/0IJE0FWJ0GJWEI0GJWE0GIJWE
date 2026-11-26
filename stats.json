@@ -192,7 +192,7 @@
       "customLabel": "تدقيق فتح الحساب"
     },
     "شركة ورود الياسمين للصناعات الغذائية وتنقية وتعبئة المياه المحدودة": {
-      "status": "monthly_payment_due",
+      "status": "monthly_payment_review",
       "note": "",
       "customLabel": ""
     }
