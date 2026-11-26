@@ -167,12 +167,12 @@
       "status": "not_ready",
       "note": ""
     },
-    "غرناطة / 1": {
+    "غرناطة \/ 1": {
       "status": "custom",
       "note": "",
       "customLabel": "يحتاج اضافة العاملين"
     },
-    "رحاب / منزل السيد عبدالله نهاد": {
+    "رحاب \/ منزل السيد عبدالله نهاد": {
       "status": "not_ready",
       "note": ""
     },
@@ -192,7 +192,7 @@
       "customLabel": "تدقيق فتح الحساب"
     },
     "شركة ورود الياسمين للصناعات الغذائية وتنقية وتعبئة المياه المحدودة": {
-      "status": "monthly_payment_review",
+      "status": "completed",
       "note": "",
       "customLabel": ""
     }
